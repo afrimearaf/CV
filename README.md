@@ -1,2 +1,2 @@
 # Latex
-### curriculum-vitae
+### Curriculum Vitae
